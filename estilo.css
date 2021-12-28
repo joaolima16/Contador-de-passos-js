@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+background-image: linear-gradient(to right,rgb(54, 142, 219),black);
+}
+section{
+    background-color: rgb(218, 201, 170);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    border-radius: 20px;
+    position: relative;
+    margin-top: 30px;
+    
+}
+h1{
+    text-align: center;
+
+}
+.inputs{
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+div#contagem{
+    margin-bottom: 55px;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+p{
+    font-family: sans-serif;
+}
+
+#bt{
+    width: 90px;
+    padding-top: 5px;
+    margin-left: 220px;
+    margin-top: 12px;
+    border-radius: 10px;
+    box-shadow: 25px 25px 25px solid black;
+}
+#bt:hover{
+    transition: 1s;
+    background-color: black;
+    color: white;
+}
+p{
+   font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+div#res{
+    margin-top: 10px;
+    align-items: center;
+    left: 50%;
+    top:50%;
+
+}
+h1{
+    color: whitesmoke;
+    text-shadow: 5px 5px 5px black;
+}
